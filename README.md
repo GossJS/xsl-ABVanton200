@@ -5,8 +5,6 @@ https://kodaktor.ru/29092017
 
 Бабахин Антон S4108
 
-Ответ на задание в папке labXSL.
+Ссылка на Heroku:
 
-math.xml - файл с формулой на выдуманном языке
-
-stylesheet.xsl - файл с XSLT-стилем
+<a href="https://obscure-waters-26944.herokuapp.com/">https://obscure-waters-26944.herokuapp.com/</a>

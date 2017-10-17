@@ -16,7 +16,7 @@
         </html>
     </xsl:template>
     <xsl:template match="графика">
-        <svg>
+        <svg xmlns="http://www.w3.org/2000/svg">
 			<xsl:attribute name="width">
 				<xsl:value-of select="@ширина"/>
 			</xsl:attribute>
